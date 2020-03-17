@@ -4,9 +4,7 @@
 
 
 
-Click Here: <a href="https://devfolio.co/submissions/diminishing-dementia" target="_blank"> For More Information </a>
-
-
+For More Info: <a href="https://devfolio.co/submissions/diminishing-dementia" target="_blank"> Click Here</a>
 
 
 
