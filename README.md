@@ -2,7 +2,7 @@
 
 ### Game for Alzheimer’s Disease detection.
 
-<a href="https://devfolio.co/submissions/diminishing-dementia" target="_blank"> </a>
+Click for more information:<a href="https://devfolio.co/submissions/diminishing-dementia" target="_blank"></a>
 
 
 
